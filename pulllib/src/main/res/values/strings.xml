@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pullLib</string>
+
+    <string name="pull_newslist_more_text">查看更多新闻</string>
+    <string name="pull_newslist_more_loading_text">正在加载...</string>
+    <string name="newslist_no_more_loading_text">当前已是最后一页</string>
+</resources>

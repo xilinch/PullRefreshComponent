@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#BA1A1D</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="green">#FF34A350</color>
+    <color name="yellow">#FFF7D23E</color>
+    <integer-array name="google_colors">
+        <item>@color/red</item>
+        <item>@color/blue</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+    </integer-array>
+
+    <color name="c_gray_f7f7f7">#f7f7f7</color>
+    <color name="c_gray_cccccc">#CCCCCC</color>
+    <color name="c_gray_999999">#999999</color>
+
+    <color name="c_gray_585858">#585858</color>
+    <color name="c_gray_f2f2f2">#f2f2f2</color>
+</resources>
