@@ -14,8 +14,11 @@ import android.widget.TextView;
 
 import com.android.pulllib.util.DateUtils;
 import com.android.pulllib.view.NfProgressBar;
+import com.android.pullrefreshcomponent.R;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
+
 import in.srain.cube.views.ptr.PtrFrameLayout;
 import in.srain.cube.views.ptr.PtrUIHandler;
 import in.srain.cube.views.ptr.indicator.PtrIndicator;

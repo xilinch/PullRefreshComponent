@@ -16,6 +16,7 @@ import android.widget.TextView;
 
 import com.android.pulllib.util.ToastUtils;
 import com.android.pulllib.view.NfProgressBar;
+import com.android.pullrefreshcomponent.R;
 import com.headerfooter.songhang.library.SmartRecyclerAdapter;
 
 import java.util.ArrayList;

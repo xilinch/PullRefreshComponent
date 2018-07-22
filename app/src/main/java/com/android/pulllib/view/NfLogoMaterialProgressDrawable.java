@@ -41,7 +41,8 @@ import android.view.animation.Interpolator;
 import android.view.animation.LinearInterpolator;
 import android.view.animation.Transformation;
 
-import com.android.pulllib.R;
+
+import com.android.pullrefreshcomponent.R;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

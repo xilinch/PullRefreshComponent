@@ -5,6 +5,7 @@ import android.util.AttributeSet;
 
 
 import com.android.pulllib.util.DensityUtils;
+import com.android.pullrefreshcomponent.R;
 
 import in.srain.cube.views.ptr.PtrFrameLayout;
 import in.srain.cube.views.ptr.header.MaterialHeader;
